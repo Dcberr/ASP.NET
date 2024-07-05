@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WEBC#\\TESTAPI\\api\\api.csproj": {}
+    "D:\\ASP.NET\\Project1\\ASP.NET\\api\\api.csproj": {}
   },
   "projects": {
-    "D:\\WEBC#\\TESTAPI\\api\\api.csproj": {
+    "D:\\ASP.NET\\Project1\\ASP.NET\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WEBC#\\TESTAPI\\api\\api.csproj",
+        "projectUniqueName": "D:\\ASP.NET\\Project1\\ASP.NET\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "D:\\WEBC#\\TESTAPI\\api\\api.csproj",
+        "projectPath": "D:\\ASP.NET\\Project1\\ASP.NET\\api\\api.csproj",
         "packagesPath": "C:\\Users\\khong\\.nuget\\packages\\",
-        "outputPath": "D:\\WEBC#\\TESTAPI\\api\\obj\\",
+        "outputPath": "D:\\ASP.NET\\Project1\\ASP.NET\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khong\\AppData\\Roaming\\NuGet\\NuGet.Config"

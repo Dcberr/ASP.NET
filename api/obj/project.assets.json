@@ -4687,11 +4687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\WEBC#\\TESTAPI\\api\\api.csproj",
+      "projectUniqueName": "D:\\ASP.NET\\Project1\\ASP.NET\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "d:\\WEBC#\\TESTAPI\\api\\api.csproj",
+      "projectPath": "D:\\ASP.NET\\Project1\\ASP.NET\\api\\api.csproj",
       "packagesPath": "C:\\Users\\khong\\.nuget\\packages\\",
-      "outputPath": "d:\\WEBC#\\TESTAPI\\api\\obj\\",
+      "outputPath": "D:\\ASP.NET\\Project1\\ASP.NET\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\khong\\AppData\\Roaming\\NuGet\\NuGet.Config"
